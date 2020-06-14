@@ -1,0 +1,3 @@
+{
+	"mongoURI": "mongodb+srv://admin:admin@nodeapi-okusl.mongodb.net/nodeapi?retryWrites=true&w=majority"
+}
